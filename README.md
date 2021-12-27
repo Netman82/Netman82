@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Netman82
+- 👋 Hi, I’m @Netman82 a.k.a Mehdi
 - 👀 I’m interested in learning Full-stack development
-- 🌱 I’m currently learning Javascript (React FW)
+- 🌱 I’m currently learning Javascript (Sveltekit)
 - 💞️ I’m looking to collaborate on nothing! haha
 - 📫 How to reach me on Telegram? @soloim
 
